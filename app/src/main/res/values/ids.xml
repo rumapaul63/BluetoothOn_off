@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="turnOnBtn" type="id"/>
+    <item name="turnOffBtn" type="id" />
+    <item name="bluetoothStatusIv" type="id" />
+    <item name="discoverableBtn" type="id" />
+    <item name="pairedBtn" type="id" />
+    <item name="pairedTv" type="id" />
+    <item name="bluetoothStatusTv" type="id" />
+</resources>
